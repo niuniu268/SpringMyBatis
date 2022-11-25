@@ -20,6 +20,6 @@
     </environments>
     <mappers>
         <package name="com.example.mapper"/>
-<!--        <mapper resource="com/example/mapper/UserMapper.xml"/>-->
+<!--        <mapper resource="com/example/mapper/UserMapper.xml.bak"/>-->
     </mappers>
 </configuration>

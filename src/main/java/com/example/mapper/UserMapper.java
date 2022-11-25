@@ -6,6 +6,6 @@ import org.apache.ibatis.annotations.Select;
 import java.util.List;
 
 public interface UserMapper {
-//    @Select( "select * from Users;" )
+    @Select( "select * from Users;" )
     public List<Users> selectAll();
 }
